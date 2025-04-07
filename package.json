@@ -1,0 +1,12 @@
+{
+  "name": "lumequa-core",
+  "version": "1.0.0",
+  "description": "Core logic and foundation for the Luméqua project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["lumequa", "core", "equality", "identity", "ai"],
+  "author": "Luméqua Team",
+  "license": "MIT"
+}
