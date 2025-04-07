@@ -1,15 +1,20 @@
 # Luméqua Core
 
-Welcome to the core of the Luméqua project — a movement built on hope, trust, unity, and transformation. This is a collaboration for good, a platform for all, and a space for real change. 
+**Luméqua** is a mission-driven, privacy-first AI initiative built to protect identity, promote equality, and transform the world.
 
-We believe in a world where everyone is seen, heard, and valued.
+This repository (`lumequa-core`) serves as the foundation — setting the structure, direction, and values behind the technology.
 
-## Mission
-To build a privacy-first, inclusive, and empowering system that connects people in ways that protect their identity and dignity.
+## Core Values
 
-## How to Contribute
-- Fork the repo
-- Create a branch
-- Submit a pull request
+- **Privacy**: We believe in safeguarding the identity and data of every individual.
+- **Equality**: We aim to create tools that uplift and empower all people, regardless of background.
+- **Impact**: We design for real-world change and long-term sustainability.
+- **Collaboration**: We build in community, not isolation.
 
-Together, we make the world better.
+## Getting Started
+
+This repo will hold the core logic, ideas, architecture, and vision. It's evolving — just like the people behind it.
+
+## Stay tuned
+
+More files, structure, and collaboration coming soon. The story is just beginning.
