@@ -6,24 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
-    "lumequa",
-    "core",
-    "equality",
-    "identity",
-    "ai"
-  ],
+  "keywords": ["lumequa", "core", "equality", "identity", "ai"],
   "author": "Luméqua Team",
-  "license": "MIT",
-  "directories": {
-    "doc": "docs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/lumequa-org/lumequa-core.git"
-  },
-  "bugs": {
-    "url": "https://github.com/lumequa-org/lumequa-core/issues"
-  },
-  "homepage": "https://github.com/lumequa-org/lumequa-core#readme"
+  "license": "MIT"
 }

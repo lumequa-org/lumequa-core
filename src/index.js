@@ -1,2 +1,2 @@
-// Entry point for Luméqua Core
-console.log("Welcome to Luméqua Core");
+// Core functionality will evolve here.
+console.log("Luméqua Core module loaded.");
