@@ -23,6 +23,10 @@ To create a world where:
 
 ---
 
+## Vision
+
+Read the full [Luméqua Vision](./vision.md)
+
 ### **Current Projects**
 
 | Name             | Purpose                                  |
@@ -64,3 +68,9 @@ We welcome devs, designers, musicians, healers, dreamers — anyone ready to bui
 ---
 
 ### **Powered by Love, Built by NerdCore Technologies**
+
+---
+
+## Vision
+
+Read the full [Luméqua Vision](./vision.md)
