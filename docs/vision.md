@@ -12,6 +12,7 @@ In the world we are creating:
 - **Love is the infrastructure**
 
 We are not building a company.  
+
 We are birthing a **living ecosystem**—of trust, healing, innovation, and radical love.
 
 ---
