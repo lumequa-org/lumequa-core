@@ -1,6 +1,6 @@
 # Luméqua
 
-![Luméqua Logo](LUMEQUA_LOGO.png)
+![Luméqua Logo](lumequa-logo.png)
 
 > *“Code the future. Heal the world.”*
 
