@@ -63,4 +63,4 @@ We welcome devs, designers, musicians, healers, dreamers — anyone ready to bui
 
 ---
 
-### **Powered by Love, Built by NerdCore**
+### **Powered by Love, Built by NerdCore Technologies**
