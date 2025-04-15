@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/lumequa-logo.png" alt="Luméqua Logo" width="300"/>
+</p>
+
 # Luméqua: A Collective Vision for a New World
 
 **Luméqua** is more than a project—it's a living movement.  
