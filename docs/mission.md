@@ -9,7 +9,9 @@ At Luméqua, we unite to face the challenges that threaten the beauty and balanc
 - **Technological risks left unguided by ethics or compassion**
 
 We see them not as obstacles—but as **invitations** to rise.  
+
 To innovate. To **restore balance**.
 
 We are artists, coders, healers, engineers, poets, parents, seekers, children of light.  
+
 Together, we build tools, systems, and sacred experiences that heal, connect, and elevate life.
